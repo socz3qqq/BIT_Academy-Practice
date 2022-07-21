@@ -1,2 +1,2 @@
 This is the Hello Wolrd example from git tutorial.
-(changed in original)
+(changed in original) + change
