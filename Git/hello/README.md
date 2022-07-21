@@ -1,2 +1,2 @@
 This is the Hello Wolrd example from git tutorial.
-(changed in original) + change
+(Changed in the original and pushed to shared)
