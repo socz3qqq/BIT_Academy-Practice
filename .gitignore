@@ -1,0 +1,3 @@
+#ignore cache created by python
+**/__pycache__
+**/.pytest_cache
